@@ -1,0 +1,53 @@
+
+
+.btn1 
+{ 
+height:35px;
+width:190px;
+font-family: serif;
+background-color:green;
+color:white;
+font-size:12px;
+border:1px solid black;
+}
+
+
+
+
+
+.btn2 
+{ 
+height:35px;
+width:210px;
+font-family: serif;
+background-color:green;
+color:white;
+font-size:15px;
+border:1px solid black;
+}
+
+
+
+.two{
+	font-family: cursive;
+	font-weight: bold; 
+	color: #67E6EC;
+	margin-top:40px;
+	text-align: center;
+	font-size: 55px;
+	
+}
+h1{
+	font-family:serif;
+	font-weight: bold; 
+	color: #67E6EC;
+	margin-top:40px;
+	text-align: center;
+	font-size: 55px;
+	word-spacing: 10px;
+}
+
+
+
+
+
